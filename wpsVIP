@@ -1,0 +1,4 @@
+hostname = account.wps.cn
+
+#wps会员
+^https?:\/\/account\.wps\.cn\/api\/users url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Wps.js
