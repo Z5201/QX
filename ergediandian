@@ -1,0 +1,3 @@
+hostname = ergedd.com
+# > 075 儿歌点点(2022-02-08) by ddgksf2013
+http:\/\/gateway\.ergedd\.com\/dduser\/user\/center\/set url script-response-body https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/egdd.js
